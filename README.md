@@ -2,7 +2,28 @@
 
 تطبيق **سَكِينَة** هو رفيقك اليومي لكل مسلم، يجمع بين البساطة، والروحانية، والتصميم العصري المريح للعين (بألوان الكحلي الداكن والذهبي). تم تصميم التطبيق لمساعدتك في قراءة القرآن الكريم، ومتابعة أوقات الصلاة بدقة، والمداومة على الأذكار.
 
-![Sakina App](assets/images/Splash_logo.png)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C1B33,100=D4AF37&height=250&section=header&text=سَكِينَة&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Sakina%20-%20Islamic%20Companion%20App&descAlignY=70"/>
+</p>
+
+<p align="center">
+  <img src="assets/images/Splash_logo.png" width="180"/>
+</p>
+
+<h1 align="center">🌙 سَكِينَة | Sakina</h1>
+
+<p align="center">
+An elegant Islamic companion app built with Flutter.
+<br>
+Quran • Prayer Times • Azkar • Tasbih
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter"/>
+  <img src="https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart"/>
+  <img src="https://img.shields.io/badge/Provider-State%20Management-5C2D91?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/Ismail-Ibrahim2004/Sakina?style=for-the-badge"/>
+</p>
 
 ## ✨ المميزات الرئيسية (Features)
 
