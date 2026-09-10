@@ -41,7 +41,7 @@
 
 1. قم بعمل استنساخ (Clone) للمستودع:
 ```bash
-git clone https://github.com/your-username/sakina.git
+git clone https://github.com/Ismail-Ibrahim2004/Sakina.git
 ```
 2. قم بتثبيت الحزم والمكتبات:
 ```bash
